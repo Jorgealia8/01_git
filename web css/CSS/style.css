@@ -1,0 +1,23 @@
+/* Selector de etiqueta */
+
+h1 {
+    color: aqua;
+}
+
+/* Selector de clase */
+.relevant {
+    color: brown;
+}
+.big {
+    font-size: 1.5rem;
+}
+
+/* Selector de ID */
+#p1 {
+    color: darkgreen;
+}
+
+/* Selctor de atributos */
+[type='text'] {
+    color: blue;
+}
